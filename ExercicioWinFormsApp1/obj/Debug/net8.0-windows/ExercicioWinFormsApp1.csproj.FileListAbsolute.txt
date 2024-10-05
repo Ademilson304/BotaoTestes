@@ -1,0 +1,17 @@
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\bin\Debug\net8.0-windows\ExercicioWinFormsApp1.exe
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\bin\Debug\net8.0-windows\ExercicioWinFormsApp1.deps.json
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\bin\Debug\net8.0-windows\ExercicioWinFormsApp1.runtimeconfig.json
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\bin\Debug\net8.0-windows\ExercicioWinFormsApp1.dll
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\bin\Debug\net8.0-windows\ExercicioWinFormsApp1.pdb
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.Form1.resources
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.Properties.Resources.resources
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.csproj.GenerateResource.cache
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.AssemblyInfo.cs
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.dll
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\refint\ExercicioWinFormsApp1.dll
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.pdb
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ExercicioWinFormsApp1.genruntimeconfig.cache
+C:\Users\aluno.cad\source\repos\ExercicioWinFormsApp1\ExercicioWinFormsApp1\obj\Debug\net8.0-windows\ref\ExercicioWinFormsApp1.dll
